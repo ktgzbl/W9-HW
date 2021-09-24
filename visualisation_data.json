@@ -1,0 +1,34 @@
+[
+    {
+        "state": "Victoria",
+        "gap": 12.2
+    },
+    {
+        "state": "Western Australia",
+        "gap": 21.9
+    },
+    {
+        "state": "Queensland",
+        "gap": 15.8
+    },
+    {
+        "state": "New South Wales",
+        "gap": 14.5
+    },
+    {
+        "state": "Northern Territory",
+        "gap": 12.7
+    },
+    {
+        "state": "Tasmania",
+        "gap": 8.4
+    },
+    {
+        "state": "Australian Capital Territory",
+        "gap": 7.9
+    },
+    {
+        "state": "South Australia",
+        "gap": 7.0
+    }
+]
